@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypowergravity" alt="hypowergravity" /></a> </p>
 
-- 🔭 I’m currently working on **Residem**
+- 🔭 I’m currently working on **Tool development in TR-SFX**
 
 - 🌱 I’m currently learning **Programming and Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Structural Chemistry**
 
-- 🤝 I’m looking for help with **Time resolved serial crystallography of Metal organic componds**
+- 🤝 I’m looking for help with **Time resolved serial crystallography of Metal organic compounds**
 
 - 💬 Ask me about **Structural Biology**
 
