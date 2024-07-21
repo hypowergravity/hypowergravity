@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dr.Sriram Srinivasa Raghavan</h1>
 <h3 align="center">A passionate structural biologist and structural chemist, I work in the field of structural chemisty and integrated structral biology.</h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypowergravity&label=Profile%20views&color=0e75b6&style=flat" alt="hypowergravity" /> </p>
-
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypowergravity" alt="hypowergravity" /></a> </p>
 
 - 🔭 I’m currently working on **Tool development in TR-SFX**
