@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on **Tool development in TR-SFX**
 
 - 🌱 I’m currently learning **Programming and Artificial Intelligence**
-
+<!--
 - 👯 I’m looking to collaborate on **Structural Chemistry**
 
 - 🤝 I’m looking for help with **Time resolved serial crystallography of Metal organic compounds**
-
+-->
 - 💬 Ask me about **Structural Biology**
 
 - 📫 How to reach me **hypowergravity@gmail.com**
