@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Time resolved serial crystallography of Metal organic compounds**
 -->
-- 💬 Ask me about **Structural Biology**
+<!-- - 💬 Ask me about **Structural Biology** -->
 
 - 📫 How to reach me **hypowergravity@gmail.com**
 
